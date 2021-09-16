@@ -22,5 +22,5 @@ caso você precise copiar um texto de uma imagem no instagram mas não quer ter 
 ## Exemple de uso🚀
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/58709086/133695210-f321f495-73f2-4a34-ac92-cca898836ffc.gif)
 
-## Authors
+## Autor
 👤 **Alexandre Lira**
