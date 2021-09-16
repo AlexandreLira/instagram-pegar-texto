@@ -1,2 +1,2 @@
 # instagram-pegar-texto
-Código para copiar textos de imagens do Instagram
+Código para pegar textos de imagens do Instagram
