@@ -1,7 +1,7 @@
 function pegarTexto(imagem = false, tag = "'"){
     console.clear()
 
-    text = document.querySelector('article .ZyFrc img').getAttribute('alt')
+    text = document.querySelector('article > div > div > div > div > div > div > img').getAttribute('alt')
  
 
     // Exclui todos as tag do texto para pegar o texto principal
